@@ -48,3 +48,23 @@
 .thumbnail img{
   padding: 9px;
 }
+
+/*FOOTER SECTION*/
+
+footer{
+  height: 150px;
+  background-color: #000;
+  padding-top: 20px;
+}
+
+footer img {
+  width: 120px;
+}
+
+.section-border{
+  border-right: 1px solid #323232;
+}
+
+.medium-grey{
+  color: aaaaab;
+}
