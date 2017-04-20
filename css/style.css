@@ -1,0 +1,50 @@
+/*UNIVERSALS*/
+
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+/*HEADER*/
+
+/*logo target width only*/
+
+.logo{
+  width: 120px;
+}
+
+.logo{
+  width: 90px;
+}
+
+.satisfy-text{
+  font-family: 'Satisfy', cursive;
+  color: #ff827b;
+  font-size: 36px;
+}
+
+/*JUMBOTRON SECTION*/
+
+#jumbotron-background{
+  background-image: url('../img/hero.jpg');
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+}
+
+#jumbotron-background p{
+  color: #fff;
+  font-size: 2em;
+  margin-top: 50px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+/*FEATURED SECTION*/
+
+.thumbnail{
+  background-color: #edf1f4;
+}
+
+.thumbnail img{
+  padding: 9px;
+}
