@@ -49,11 +49,17 @@
   padding: 9px;
 }
 
+/*SERVICES*/
+
+.serv-blue{
+  color:#69B2E7;
+}
+
 /*FOOTER SECTION*/
 
 footer{
   height: 150px;
-  background-color: #000;
+  background-color: #231F20;
   padding-top: 20px;
 }
 
@@ -66,5 +72,19 @@ footer img {
 }
 
 .medium-grey{
-  color: aaaaab;
+  color: #BFC0C1;
+}
+
+
+ul{
+  list-style-type: none;
+}
+
+.ft-margin{
+  margin-top: 10px;
+  padding: 0px;
+}
+
+.add-margin{
+  margin-left: 20px;
 }
